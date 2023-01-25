@@ -1,0 +1,44 @@
+body {
+    background-image: url("tp1.jpg")
+}
+
+h1.a {
+    text-align: center;
+    color: blue
+}
+
+table {
+    border: 2px solid red;
+    border-collapse: collapse
+}
+
+caption{
+    background: white;
+    border: 2px solid blue;
+    padding: 10px
+}
+
+th{
+    background: grey;
+    border: 2px solid blue;
+    padding: 10px
+}
+
+td {
+    background: grey;
+    border: 2px solid blue;
+    padding: 20px
+}
+
+tbody th{
+    background: lightgrey;
+    border: 2px solid blue;
+    padding: 10px
+}
+
+tfoot td{
+    background: none;
+    border: 2px solid blue;
+    padding: 2px
+}
+
